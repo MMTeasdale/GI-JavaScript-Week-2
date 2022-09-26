@@ -1,7 +1,7 @@
 var attendanceSheet = [
-    ["John", "Doe", 5],
-    ["Laura", "Love", 6],
-    ["Buck", "Hunter", 7],
+    ["Taz", "Devil", 5],
+    ["Bugs", "Bunny", 6],
+    ["Harley", "Quinn", 7],
 ];
 
 function getStudent(attendanceSheet, index) {
